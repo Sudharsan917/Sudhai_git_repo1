@@ -1,0 +1,1 @@
+This is example of git fetch and merge
